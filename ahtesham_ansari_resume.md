@@ -57,7 +57,7 @@ Devi Ahilya Vishwavidyalaya, Indore | Graduated: September 2022
 - Talent Development
 
 **Certifications:**
-- Digital Marketing for Beginners by Google (Completed: [Month Year])
+- Digital Marketing for Beginners by Google
 
 **Languages:**
 - English, Hindi, Urdu (Fluent)
