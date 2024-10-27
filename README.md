@@ -1,5 +1,5 @@
 # Ahtesham Salamat Ansari
-Pune, MH • ahteshamsalamat@gmail.com • 741-599-5966 • [LinkedIn: @ahteshamsalamatansari]([url](https://www.linkedin.com/in/ahteshamsalamatansari/))
+Pune, MH • ahteshamsalamat@gmail.com • 741-599-5966 • [LinkedIn: @ahteshamsalamatansari](https://www.linkedin.com/in/ahteshamsalamatansari/)
 
 ## Professional Summary
 Experienced project leader and quality analyst with a proven track record in lead generation, data research, and team management. Skilled in implementing data-driven strategies to enhance operational efficiency and drive client satisfaction. Adept at leveraging various CRM tools and technologies to optimize sales and marketing campaigns.
