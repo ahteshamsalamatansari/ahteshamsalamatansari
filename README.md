@@ -6,8 +6,22 @@ Experienced project leader and quality analyst with a proven track record in lea
 
 ## Experience
 
+### Bizprospex, Burhanpur, MP
+**Competitive Intelligence Specialist & Data Services Consultant** | February 2025 – Present
+- Conducted deep-dive **competitive research** and **market analysis** to uncover actionable B2B insights.  
+- Leveraged tools like **LinkedIn Sales Navigator**, **Salesforce**, and **HubSpot CRM** for data-driven prospecting.  
+- Created detailed **competitor profiles** to support sales and marketing in **go-to-market (GTM)** strategies.  
+- Delivered **account-based intelligence** to improve **targeted outreach** and **pipeline development**.  
+- Applied **quality assurance (QA)** and **data integrity** protocols to maintain high data accuracy.  
+- Supported **ABM campaigns** by aligning competitive insights with sales initiatives.
+- Provided **data enrichment, validation, and cleansing** services tailored to B2B market needs.  
+- Automated high-quality **prospect lists** through **contact discovery**.  
+- Managed **client relationships** and ensured on-time, high-quality data delivery.  
+- Worked with sales teams to create **custom datasets** that boosted **lead quality** and **ROI**.  
+- Adhered to **data privacy regulations** including **GDPR** and **CCPA**.
+
 ### Funnelbyte, Burhanpur, MP
-**Project Lead & Quality Analyst** | November 2022 – Present
+**Project Lead & Quality Analyst** | November 2022 – February 2025
 
 - Orchestrated over 400 lead generation projects, consistently meeting or exceeding client expectations
 - Managed a team of 30+ members, improving overall productivity by 25% through targeted training and performance monitoring
