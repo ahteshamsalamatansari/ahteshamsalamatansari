@@ -194,7 +194,7 @@ I'm a passionate **Technical Solutions Architect** specializing in AI/ML Systems
 
 ```mermaid
 mindmap
-  root((Ahtesham Ansari))
+  root((Ahtesham Salamat Ansari))
     AI/ML Architecture
       End-to-end ML Pipelines
       Data Ingestion to Model Serving
