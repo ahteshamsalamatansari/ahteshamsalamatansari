@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Technical+Solutions+Architect;AI%2FML+Systems+Specialist;Data+Pipeline+Design+Expert;Generative+AI+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer;AI%2FML+Systems+Specialist;Data+Pipeline+Design+Expert;Generative+AI+Enthusiast)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahteshamsalamatansari)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AhteshamSalamat@yahoo.com)
