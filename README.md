@@ -1,290 +1,255 @@
-# 👋 Hi, I'm Ahtesham Salamat Ansari
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer;AI%2FML+Systems+Specialist;Data+Pipeline+Design+Expert;Generative+AI+Enthusiast)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahteshamsalamatansari)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AhteshamSalamat@yahoo.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917415995966)
-
-</div>
-
----
-
-## 🚀 About Me
-
-> **Architecting the Future with AI & Data** 🎯
-
-I'm a passionate **Technical Solutions Architect** specializing in AI/ML Systems and Data Pipeline Design, based in **Burhanpur, Madhya Pradesh, India** 🇮🇳. With 4+ years of experience in data research and quality assurance, I've successfully transitioned into designing and implementing cutting-edge AI solutions that drive measurable business value.
-
-<details>
-<summary>📊 <b>Quick Stats</b></summary>
-
-```text
-🏗️  ML Pipelines Processed    : 50M+ data points daily
-⚡  Inference Latency Reduced  : 65%
-🎯  Model Deployment Time      : Weeks → Hours
-📈  Lead Qualification Accuracy: +35% improvement
-💾  Daily Data Ingestion       : 10TB+
-🔄  System Uptime             : 99.9%
-📞  API Calls Supported       : 10K+ daily
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║        AHTESHAM  SALAMAT  ANSARI                             ║
+║        AI Engineer · GenAI · Data Intelligence              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-</details>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00FFB2&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Building+Production+GenAI+Applications+%F0%9F%A4%96;LLM+Integration+%7C+RAG+Systems+%7C+Data+Pipelines;Turning+Raw+Data+into+Business+Intelligence+%F0%9F%9A%80)](https://git.io/typing-svg)
 
----
+<br/>
 
-## 🛠️ Technology Arsenal
-
-### 🧠 AI/ML & Data Science
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-
-</div>
-
-### ☁️ Cloud & Infrastructure
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
-
-### 🗄️ Data Engineering & Analytics
-<div align="center">
-
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-
-</div>
-
-### 📊 Monitoring & MLOps
-<div align="center">
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-</div>
-
-### 💻 Programming Languages
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahteshamsalamatansari)
+[![Email](https://img.shields.io/badge/Gmail-ahteshamsalamat%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahteshamsalamat@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917415995966)
+[![Location](https://img.shields.io/badge/India_GMT+5:30-%23FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 💼 Professional Journey
+## `$ whoami`
+
+```python
+class AhteshamSalamatAnsari:
+
+    role        = "AI Engineer"
+    location    = "India (Remote-Ready, GMT+5:30)"
+    experience  = "3+ years in production GenAI & data systems"
+    focus       = ["LLM Integration", "RAG Systems", "Data Pipelines", "MLOps"]
+    
+    superpowers = {
+        "GenAI"     : ["GPT-4", "Claude", "Llama", "LangChain", "Prompt Engineering"],
+        "Data"      : ["50M+ records/day", "10TB+ ingestion", "sub-second latency"],
+        "Cloud"     : ["AWS SageMaker", "Lambda", "S3", "Docker", "Kubernetes"],
+        "Databases" : ["Pinecone", "ChromaDB", "PostgreSQL", "MySQL"],
+    }
+    
+    mission = """
+        Bridge the gap between cutting-edge AI and real business outcomes.
+        Build systems that don't just process data — they create intelligence.
+    """
+```
+
+---
+
+## `$ cat impact.log`
+
+<div align="center">
+
+| Metric | Result |
+|---|---|
+| 📊 Data Points Processed Daily | **50M+** |
+| ⚡ Query Response Time Reduced | **3.2s → 180ms** |
+| 🎯 Lead Qualification Accuracy | **+35%** |
+| 🔄 Pipeline Runtime Optimized | **6.5hrs → 3.9hrs (-40%)** |
+| 📈 Manual Research Time Saved | **80% reduction** |
+| 🚀 Deployment Time Reduced | **Weeks → Hours (-60%)** |
+| 🛡️ Data Accuracy Improved | **78% → 94%** |
+| ☁️ Serverless API Calls / Day | **10,000+ @ 99.9% uptime** |
+
+</div>
+
+---
+
+## `$ ls projects/`
 
 <details open>
-<summary>🏢 <b>BizProspex</b> - Technical Solutions Architect & Competitive Intelligence Specialist</summary>
+<summary><b>🔷 LLM-Powered Lead Intelligence System</b> &nbsp;·&nbsp; <code>GPT-4 · LangChain · Pinecone · AWS Lambda · Python</code></summary>
 
-### 🔧 Technical Solutions Architect (Aug 2025 - Present)
-**Location:** Burhanpur, Madhya Pradesh, India
+<br/>
 
-**🎯 Key Achievements:**
-- 🏗️ **Architected scalable AI/ML training pipelines** processing **50M+ data points daily** with **99.9% uptime**
-- ⚡ **Reduced training time by 40%** through optimized pipeline architecture
-- 🤖 **Built generative AI solutions** using LLMs improving lead qualification accuracy by **35%**
-- 📊 **Designed real-time streaming architecture** with Apache Kafka & Spark for sub-second analytics
-- 🚀 **Implemented MLOps frameworks** reducing time-to-production by **60%**
-- 💼 **Collaborated with sales/marketing teams** contributing to **25% increase in pipeline conversion**
-- 🔒 **Implemented GDPR & CCPA compliant systems** with advanced encryption
+> *End-to-end RAG application for B2B lead qualification at scale*
 
-### 🕵️ Competitive Intelligence Specialist (Feb 2025 - Aug 2025)
-- 🔍 Deep-dive competitive research and market analysis for actionable B2B insights
-- 🛠️ Leveraged LinkedIn Sales Navigator, Salesforce, and HubSpot CRM
-- 📋 Created detailed competitor profiles supporting GTM strategies
-- 🎯 Delivered account-based intelligence for targeted outreach
-- 📊 Applied QA protocols maintaining high data accuracy
-- 🚀 Supported ABM campaigns aligning insights with sales initiatives
+- 🧠 Built a **Retrieval-Augmented Generation (RAG)** pipeline using LangChain + GPT-4 over **50M+ B2B records**, boosting qualification accuracy by **35%**
+- ✍️ Engineered prompt workflows that cut manual research time by **80%**, freeing sales teams for high-value prospects
+- 🔍 Integrated **Pinecone** vector database for semantic search — response latency dropped from **3.2s → 180ms**
+- ☁️ Deployed on **serverless AWS Lambda**, handling **10K+ daily API calls** at **99.9% uptime**
 
 </details>
 
 <details>
-<summary>🏢 <b>FunnelByte</b> - Project Leader & Quality Analyst (3 years 9 months)</summary>
+<summary><b>🔷 Real-Time B2B Data Intelligence Pipeline</b> &nbsp;·&nbsp; <code>Kafka · Spark · Docker · Kubernetes · Python</code></summary>
 
-### 👨‍💼 Project Leader & Quality Analyst (Nov 2022 - Feb 2025)
-- 🎯 Designed and created quality plans adhering to organizational policies
-- 🔧 Implemented error-fixing plans ensuring performance, reliability, and compatibility
-- 🛠️ Expertise in QA testing tools and various extensions
-- 📊 Root cause analysis and statistical collection for project optimization
-- 📉 Achieved reduction in employee attrition rates
-- 🎓 Knowledge transfer to new joiners and team management
-- 💡 Provided efficient solutions for workplace challenges
+<br/>
 
-### 📊 Senior Data Research Executive (Mar 2022 - Nov 2022)
-- 🔬 Supervised and coordinated research and program evaluation activities
-- 🤝 Collaborated with evaluators on data collection and analysis
-- 📈 Developed policy and action suggestions based on research analytics
-- 🏗️ Business analysis, data modeling, and database optimization
-- 📋 Created and maintained centralized data dictionary
-- 📊 Ensured data architectural guidelines compliance
+> *Distributed streaming architecture processing enterprise-scale data in real time*
 
-### 🔍 Data Research Executive (Jun 2021 - Mar 2022)
-- ⛏️ Led data mining and collection procedures from various sources
-- ✅ Ensured data quality and integrity
-- 📊 Built analytic systems and predictive models
-- 📈 Created data visualizations and reports
-- 🧪 Experimented with new models and techniques
-
-</details>
-
-<details>
-<summary>🏢 <b>MPOnline Limited</b> - Kiosk Operator (Oct 2019 - Mar 2021)</summary>
-
-### 🖥️ Kiosk Operator
-- 🌐 Provided online services and bank correspondence
-- 🎓 Conducted student seminars for government vacancies
-- 🏥 **Enrolled 20,000+ local citizens** for Aayushman Bharat Yojana
-- 📍 **Location:** Burhanpur, Madhya Pradesh, India
+- ⚙️ Architected a distributed streaming system on **Apache Kafka + Spark** handling **50M data points/day** with sub-second latency
+- 🔧 Tuned Spark caching & execution plans, cutting pipeline runtime from **6.5hrs → 3.9hrs (-40%)**
+- 🐳 Containerized with **Docker + Kubernetes** — handles **3× traffic spikes** with zero downtime auto-scaling
+- ✅ Automated data quality checks lifted accuracy from **78% → 94%**
 
 </details>
 
 ---
 
-## 🎓 Education
+## `$ cat experience.json`
 
-<div align="center">
-
-### 🏛️ Devi Ahilya Vishwavidyalaya (DAVV), Indore
-**Bachelor of Business Administration - BBA (Honors)**  
-📅 *July 2019 - July 2022*
-
-### 🏫 St. Theresa Sr. Sec. School, Burhanpur
-**10+2 Education**  
-📅 *July 2016 - August 2019*
-
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-![Achievement](https://img.shields.io/badge/🏆_Top_Performer-FFD700?style=for-the-badge)
-![Innovation](https://img.shields.io/badge/💡_Idea_Generator-FF6B6B?style=for-the-badge)
-
-</div>
-
----
-
-## 📈 Core Expertise Areas
-
-```mermaid
-mindmap
-  root((Ahtesham Salamat Ansari))
-    AI/ML Architecture
-      End-to-end ML Pipelines
-      Data Ingestion to Model Serving
-      Traditional ML & Generative AI
-    Data Systems Design
-      Petabyte-scale Processing
-      Real-time Streaming
-      Batch Analytics
-    Generative AI Solutions
-      LLMs Implementation
-      Diffusion Models
-      Custom Training Frameworks
-    Cloud Architecture
-      AWS/Azure/GCP
-      Containerization
-      MLOps Best Practices
-    Technical Leadership
-      50M+ Daily Data Points
-      99.9% System Uptime
-      65% Latency Reduction
+```json
+[
+  {
+    "role"    : "AI Engineer, Data Systems",
+    "company" : "BizProspex",
+    "period"  : "August 2025 – Present",
+    "type"    : "Remote · India",
+    "highlights": [
+      "Design & deploy GenAI apps (GPT-4, Claude, Llama) integrated with CRM → +25% pipeline conversion",
+      "MLOps with MLflow & AWS SageMaker: A/B testing, CI/CD, automated versioning → 60% faster deploys",
+      "Prompt engineering + RAG architectures → 40% improvement in user satisfaction scores",
+      "GDPR/CCPA-compliant data systems with AES-256 encryption & AWS IAM access controls",
+      "Async collaboration across Slack, Notion, Jira with distributed cross-functional teams"
+    ]
+  },
+  {
+    "role"    : "Data Intelligence Analyst",
+    "company" : "BizProspex",
+    "period"  : "February 2025 – August 2025",
+    "highlights": [
+      "Python web scraping (BeautifulSoup, Selenium) across 10,000+ B2B profiles from LinkedIn Sales Navigator",
+      "SQL validation frameworks: deduplication + enrichment → dataset accuracy 78% → 94%",
+      "Automated ETL pipelines with Python + Apache Airflow → 70% less manual processing time"
+    ]
+  },
+  {
+    "role"    : "Data Quality Analyst & Team Lead",
+    "company" : "FunnelByte",
+    "period"  : "June 2021 – February 2025",
+    "highlights": [
+      "Led QA initiatives with automated testing frameworks → 42% error rate reduction",
+      "Managed 8+ analyst team: documentation, data modeling, knowledge transfer",
+      "Built Python validation scripts & real-time data quality monitoring dashboards"
+    ]
+  }
+]
 ```
 
 ---
 
-## 🌟 What I Bring to the Table
+## `$ pip list  # tech stack`
 
 <div align="center">
 
-| 🎯 **Core Strengths** | 📊 **Impact Metrics** |
-|:---|:---|
-| **AI/ML Pipeline Architecture** | 50M+ data points processed daily |
-| **System Optimization** | 65% latency reduction achieved |
-| **MLOps Implementation** | Weeks → Hours deployment time |
-| **Data Infrastructure Design** | 10TB+ daily ingestion capacity |
-| **Generative AI Solutions** | 35% accuracy improvement |
-| **Team Collaboration** | 25% pipeline conversion increase |
+**🤖 Generative AI & LLMs**
+
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Systems-00B4D8?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=flat-square)
+
+**🗄️ Vector Databases**
+
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![Weaviate](https://img.shields.io/badge/Weaviate-00D084?style=flat-square)
+
+**💻 Programming & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**☁️ Cloud & MLOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+**🌊 Big Data & Streaming**
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+
+**🛠️ Business & Collaboration**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Mission Statement
+## `$ cat certifications.txt`
 
-> *"Passionate about democratizing AI adoption and helping organizations unlock the potential of their data through intelligent architecture. Whether you're scaling existing ML operations or starting your AI transformation journey, I bring the technical expertise and strategic thinking to make it successful."*
+```
+✅  Full Stack Generative and Agentic AI with Python
+    Issued by: NVIDIA
+
+✅  Building LLM Applications With Prompt Engineering  
+    Issued by: Udemy
+
+📚  Self-Study Foundation:
+    ├── Data Structures & Algorithms (MIT OpenCourseWare)
+    ├── Linear Algebra for ML (Coursera)
+    ├── Statistics & Probability
+    ├── Database Systems
+    └── Python Programming
+```
 
 ---
 
-## 📞 Let's Connect!
+## `$ git log --oneline --stats`
 
 <div align="center">
 
-**Ready to discuss your next AI/ML architecture challenge?**
+<img src="https://github-readme-stats.vercel.app/api?username=ahtesham-ansari&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FFB2&icon_color=00FFB2&text_color=C9D1D9" alt="GitHub Stats" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahteshamsalamatansari)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:AhteshamSalamat@yahoo.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/917415995966)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahtesham-ansari&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2" alt="GitHub Streak" />
 
-**📍 Based in Burhanpur, Madhya Pradesh, India 🇮🇳**
-
----
-
-*Let's explore how intelligent data systems can accelerate your business objectives!* 🚀
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtesham-ansari&theme=github_dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=00FFB2&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ahtesham-ansari&color=blueviolet&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/ahtesham-ansari?style=for-the-badge&color=blue)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ahtesham-ansari&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtesham-ansari&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
----
+## `$ echo $CONNECT`
 
 <div align="center">
 
-**⭐ Star this repository if you found my profile interesting!**
+**Open to:** Remote AI Engineer roles · Freelance GenAI projects · Technical collaborations
 
-*Built with ❤️ and lots of ☕*
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahteshamsalamatansari)
+[![Email](https://img.shields.io/badge/Drop_me_an_Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahteshamsalamat@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/Chat_on_WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917415995966)
+
+<br/>
+
+```
+╔════════════════════════════════════════════════════════════╗
+║  "The best AI systems don't just process information —    ║
+║   they generate clarity from chaos."                      ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=ahtesham-ansari&color=00FFB2&style=flat-square&label=Profile+Views)
 
 </div>
