@@ -219,11 +219,11 @@ class AhteshamSalamatAnsari:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahteshamsalamatansari&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FFB2&icon_color=00FFB2&text_color=C9D1D9" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahteshamsalamatansari&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FFB2&icon_color=00FFB2&text_color=C9D1D9" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahteshamsalamatansari&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ahteshamsalamatansari&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahteshamsalamatansari&theme=github_dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=00FFB2&text_color=C9D1D9" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahteshamsalamatansari&theme=github_dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=00FFB2&text_color=C9D1D9" />
 
 </div>
 
