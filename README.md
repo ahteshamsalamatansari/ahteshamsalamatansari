@@ -29,7 +29,7 @@ class AhteshamSalamatAnsari:
 
     role        = "AI Engineer"
     location    = "India (Remote-Ready, GMT+5:30)"
-    experience  = "3+ years in production GenAI & data systems"
+    experience  = "6+ years in production GenAI & data systems"
     focus       = ["LLM Integration", "RAG Systems", "Data Pipelines", "MLOps"]
     
     superpowers = {
