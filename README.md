@@ -245,7 +245,7 @@ class AhteshamSalamatAnsari:
 
 ```
 ╔════════════════════════════════════════════════════════════╗
-║  "The best AI systems don't just process information —    ║
+║  "The best AI systems don't just process information -    ║
 ║   they generate clarity from chaos."                      ║
 ╚════════════════════════════════════════════════════════════╝
 ```
