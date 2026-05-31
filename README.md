@@ -34,7 +34,7 @@ class AhteshamSalamatAnsari:
     
     superpowers = {
         "GenAI"     : ["GPT-4", "Claude", "Llama", "LangChain", "Prompt Engineering"],
-        "Data"      : ["50M+ records/day", "10TB+ ingestion", "sub-second latency"],
+        "Data"      : ["50M records/day", "10TB+ ingestion", "sub-second latency"],
         "Cloud"     : ["AWS SageMaker", "Lambda", "S3", "Docker", "Kubernetes"],
         "Databases" : ["Pinecone", "ChromaDB", "PostgreSQL", "MySQL"],
     }
