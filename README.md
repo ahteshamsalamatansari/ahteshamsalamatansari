@@ -424,7 +424,7 @@ class AhteshamSalamatAnsari:
 
 <div align="center">
 
-### 🚀 Open to: Remote AI Engineer roles · Freelance GenAI projects · Technical collaborations
+### 🚀 ⚡ Currently exploring AI Agents, LLM systems, automation, and data intelligence.
 
 <br/>
 
