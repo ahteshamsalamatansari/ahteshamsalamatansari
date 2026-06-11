@@ -401,7 +401,7 @@ class AhteshamSalamatAnsari:
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahteshamsalamatansari&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://img.shields.io/github/followers/ahteshamsalamatansari?style=flat-square&logo=github&color=00FFB2&labelColor=0D1117" /> <img src="https://img.shields.io/badge/GenAI-Production_Ready-00FFB2?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/MLOps-Automated_Pipelines-00FFB2?style=flat-square&labelColor=0D1117" />
 
 <br/><br/>
 
