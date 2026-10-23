@@ -1,15 +1,16 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         ANIMATED HEADER BANNER                      -->
+<!--                               HEADER                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Ahtesham%20Salamat%20Ansari&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20//%20GenAI%20//%20Data%20Intelligence&descAlignY=60&descAlign=50&descSize=18" width="100%"/></a>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Ahtesham%20Salamat%20Ansari&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20//%20AI%20Agents%20//%20Workflow%20Automation%20//%20Python&descAlignY=60&descAlign=50&descSize=18" width="100%"/></a>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=00FFB2&center=true&vCenter=true&multiline=true&width=780&height=90&lines=Building+Production+GenAI+Applications+%F0%9F%A4%96;LLM+Integration+%E2%80%A2+RAG+Systems+%E2%80%A2+Data+Pipelines;Turning+Raw+Data+into+Business+Intelligence+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=00FFB2&center=true&vCenter=true&multiline=true&width=780&height=90&lines=I+build+AI+agents+that+do+the+repetitive+work;Outreach.+Research.+Data+cleanup.+Content.;4+hours+of+daily+replies+cut+to+35+minutes)](https://git.io/typing-svg)
 
 <br/>
 
+<a href="https://www.upwork.com/freelancers/YOUR-PROFILE-ID"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=6FDA44" /></a>
 <a href="https://www.linkedin.com/in/ahteshamsalamatansari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
 <a href="mailto:ahteshamsalamat@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" /></a>
 <a href="https://wa.me/917415995966"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" /></a>
@@ -18,10 +19,28 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ahtesham-ansari&color=00FFB2&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-00FFB2?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-GenAI_·_RAG_·_MLOps-CC785C?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Open_to_Freelance_Projects-00FFB2?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-AI_Agents_·_Automation_·_MCP-CC785C?style=flat-square" />
 
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                                HOOK                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h3 align="center">I build AI agents and automations that take repetitive work off your team.</h3>
+
+<p align="center">
+Outreach that drafts itself. Research that runs without someone clicking through tabs.<br/>
+Data that gets validated and deduplicated before anyone relies on it.
+</p>
+
+<p align="center">
+My latest build, an outreach system on n8n and Airtable MCP, drafts emails for <b>7,000 prospects</b><br/>
+and cut time spent on routine replies from <b>4 hours a day to 35 minutes</b>.
+</p>
 
 <br/>
 
@@ -37,37 +56,40 @@
 </h2>
 
 ```python
-class AhteshamSalamatAnsari:
+class Ahtesham:
 
-    role        = "AI Engineer"
-    location    = "India (Remote-Ready, GMT+5:30)"
-    experience  = "6+ years in production GenAI & data systems"
-    focus       = ["LLM Integration", "RAG Systems", "Data Pipelines", "MLOps"]
-    
-    superpowers = {
-        "GenAI"     : ["GPT-4", "Claude", "Llama", "LangChain", "Prompt Engineering"],
-        "Data"      : ["50M records/day", "10TB+ ingestion", "sub-second latency"],
-        "Cloud"     : ["AWS SageMaker", "Lambda", "S3", "Docker", "Kubernetes"],
-        "Databases" : ["Pinecone", "ChromaDB", "PostgreSQL", "MySQL"],
+    role       = "AI Engineer @ BizProspex"
+    location   = "India · remote · GMT+5:30"
+    experience = "5 years in data systems, AI engineering since 2025"
+
+    builds = [
+        "AI agents with tool calling and API integrations",
+        "Workflow automation and MCP integrations",
+        "LLM content and research pipelines",
+        "Python data pipelines with validation and deduplication",
+    ]
+
+    stack = {
+        "AI"         : ["OpenAI", "Claude", "MCP", "Prompt engineering"],
+        "Automation" : ["n8n", "Airtable", "Python", "REST APIs"],
+        "Data"       : ["SQL", "Pandas", "Airflow", "Selenium", "Playwright"],
+        "Deploy"     : ["AWS Lambda", "SageMaker", "Docker", "VPS hosting"],
     }
-    
-    mission = """
-        Bridge the gap between cutting-edge AI and real business outcomes.
-        Build systems that don't just process data — they create intelligence.
-    """
+
+    rule = "If a script or a filter solves it, I won't add an LLM."
 ```
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                            IMPACT METRICS                           -->
+<!--                               RESULTS                               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%" height="2"/>
 
 <h2>
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35" align="left"/>
-  <code>$ cat impact.log</code>
+  <code>$ cat results.log</code>
 </h2>
 
 <div align="center">
@@ -75,53 +97,53 @@ class AhteshamSalamatAnsari:
 <table>
 <tr>
 <td align="center" width="33%">
-  <h1>50M+</h1>
-  <b>📊 Data Points Daily</b><br/>
-  <sub>Processed at scale</sub>
+  <h1>4h → 35m</h1>
+  <b>Daily reply time</b><br/>
+  <sub>AI outreach system</sub>
 </td>
 <td align="center" width="33%">
-  <h1>180ms</h1>
-  <b>⚡ Query Response</b><br/>
-  <sub>Down from 3.2s</sub>
+  <h1>7,000</h1>
+  <b>Prospects</b><br/>
+  <sub>Emails auto-drafted</sub>
 </td>
 <td align="center" width="33%">
-  <h1>+35%</h1>
-  <b>🎯 Lead Accuracy</b><br/>
-  <sub>Qualification boost</sub>
+  <h1>1.5M</h1>
+  <b>Q&A pairs generated</b><br/>
+  <sub>From web-crawled articles</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-  <h1>-40%</h1>
-  <b>🔄 Pipeline Runtime</b><br/>
-  <sub>6.5hrs → 3.9hrs</sub>
+  <h1>78 → 94%</h1>
+  <b>Dataset accuracy</b><br/>
+  <sub>SQL validation + dedup</sub>
 </td>
 <td align="center">
-  <h1>80%</h1>
-  <b>📈 Research Time Saved</b><br/>
-  <sub>Manual work reduced</sub>
+  <h1>-70%</h1>
+  <b>Manual processing</b><br/>
+  <sub>Python + Airflow ETL</sub>
+</td>
+<td align="center">
+  <h1>10,000+</h1>
+  <b>B2B profiles</b><br/>
+  <sub>Scraped and analyzed</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <h1>-42%</h1>
+  <b>Error rate</b><br/>
+  <sub>Automated QA testing</sub>
 </td>
 <td align="center">
   <h1>-60%</h1>
-  <b>🚀 Deployment Time</b><br/>
-  <sub>Weeks → Hours</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <h1>78→94%</h1>
-  <b>🛡️ Data Accuracy</b><br/>
-  <sub>Quality improvement</sub>
+  <b>Deployment time</b><br/>
+  <sub>MLflow + SageMaker</sub>
 </td>
 <td align="center">
-  <h1>10K+</h1>
-  <b>☁️ Serverless Calls/Day</b><br/>
-  <sub>99.9% uptime</sub>
-</td>
-<td align="center">
-  <h1>3×</h1>
-  <b>📦 Traffic Spikes</b><br/>
-  <sub>Zero-downtime scaling</sub>
+  <h1>8+</h1>
+  <b>Analysts led</b><br/>
+  <sub>Data quality team</sub>
 </td>
 </tr>
 </table>
@@ -131,56 +153,92 @@ class AhteshamSalamatAnsari:
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         FEATURED PROJECTS                           -->
+<!--                            WHAT I'VE BUILT                          -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%" height="2"/>
 
 <h2>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35" align="left"/>
-  <code>$ ls projects/</code>
+  <code>$ ls builds/</code>
 </h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 LLM-Powered Lead Intelligence System
+### AI Outreach Automation System
 
-> *End-to-end RAG application for B2B lead qualification at scale*
+> *Prospect emails drafted and queued without anyone writing them by hand*
 
 <p>
-<img src="https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airtable_MCP-18BFFF?style=flat-square&logo=airtable&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/VPS-333333?style=flat-square&logo=linux&logoColor=white"/>
 </p>
 
-- 🧠 **RAG pipeline** with LangChain + GPT-4 over **50M+ B2B records**, boosting qualification accuracy by **35%**
-- ✍️ Prompt workflows cut manual research time by **80%**
-- 🔍 **Pinecone** vector search — latency dropped from **3.2s → 180ms**
-- ☁️ Serverless **AWS Lambda** handling **10K+ daily calls** at **99.9% uptime**
+- **Problem:** the team spent about 4 hours a day writing routine replies
+- **Built:** n8n workflows connected to Airtable through MCP, with an LLM drafting each email
+- Hosted on a VPS with a monitoring control panel to track runs and failures
+- **Result:** emails drafted for **7,000 prospects**, reply time down to **35 minutes a day**
 
 </td>
 <td width="50%" valign="top">
 
-### 🔷 Real-Time B2B Data Intelligence Pipeline
+### Educational Q&A Generation Pipeline
 
-> *Distributed streaming architecture processing enterprise-scale data*
+> *Turning web articles into a structured question bank at scale*
 
 <p>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square"/>
 </p>
 
-- ⚙️ **Kafka + Spark** streaming system handling **50M data points/day** at sub-second latency
-- 🔧 Tuned Spark caching & execution plans — runtime **6.5hrs → 3.9hrs (-40%)**
-- 🐳 Containerized with **Docker + K8s** — handles **3× traffic spikes** with zero downtime
-- ✅ Automated data quality checks lifted accuracy from **78% → 94%**
+- **Problem:** building a school MCQ bank by hand does not scale
+- **Built:** crawler with Selenium and Playwright to collect articles, then an OpenAI pipeline to generate questions and answers from them
+- **Result:** **1.5 million** question and answer pairs produced
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### B2B Data Intelligence & Quality Pipeline
+
+> *Clean, deduplicated company data for sales and ABM teams*
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-555555?style=flat-square"/>
+</p>
+
+- Scraped and analyzed **10,000+** B2B company profiles from LinkedIn Sales Navigator
+- SQL validation, deduplication, and enrichment lifted dataset accuracy from **78% to 94%**
+- Python + Airflow ETL cut manual processing time by **70%**
+
+</td>
+<td width="50%" valign="top">
+
+### AI Agent Builds
+
+> *Agents that call tools and APIs to finish a task, not just chat*
+
+<p>
+<img src="https://img.shields.io/badge/AI_Agents-00B4D8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tool_Calling-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Voice_AI-CC785C?style=flat-square"/>
+</p>
+
+- **AI E-commerce Agent:** store and marketing automation
+- **AI Appointment Booking Agent:** booking and business automation
+- **Real-Time AI Voice Assistant:** speech in, speech out, with conversation memory
+
+<sub>Demos and details on my Upwork portfolio.</sub>
 
 </td>
 </tr>
@@ -204,18 +262,17 @@ class AhteshamSalamatAnsari:
 
 ```json
 {
-  "role"    : "AI Engineer, Data Systems",
+  "role"    : "AI Engineer",
   "company" : "BizProspex",
   "period"  : "August 2025 – Present",
   "type"    : "Remote · India"
 }
 ```
 
-<sup>▸</sup> Design & deploy **GenAI apps** (GPT-4, Claude, Llama) integrated with CRM → **+25% pipeline conversion**  
-<sup>▸</sup> **MLOps** with MLflow & AWS SageMaker: A/B testing, CI/CD, automated versioning → **60% faster deploys**  
-<sup>▸</sup> Prompt engineering + **RAG architectures** → **40% improvement** in user satisfaction scores  
-<sup>▸</sup> **GDPR/CCPA-compliant** data systems with AES-256 encryption & AWS IAM access controls  
-<sup>▸</sup> Async collaboration across Slack, Notion, Jira with distributed cross-functional teams  
+<sup>▸</sup> Build AI agents, outreach automation, and LLM pipelines with OpenAI, Claude, n8n, and MCP  
+<sup>▸</sup> Generative AI apps (GPT-4, Claude, Llama) connected to CRM data → **+25% pipeline conversion**  
+<sup>▸</sup> MLOps with MLflow and AWS SageMaker: versioning, A/B testing, CI/CD → **60% faster deploys**  
+<sup>▸</sup> GDPR/CCPA-compliant data handling with AES-256 encryption and AWS IAM access controls  
 
 </td></tr>
 <tr><td>
@@ -228,9 +285,9 @@ class AhteshamSalamatAnsari:
 }
 ```
 
-<sup>▸</sup> Python **web scraping** (BeautifulSoup, Selenium) across **10,000+ B2B profiles** from LinkedIn Sales Navigator  
-<sup>▸</sup> SQL validation frameworks: deduplication + enrichment → dataset accuracy **78% → 94%**  
-<sup>▸</sup> Automated ETL pipelines with Python + Apache Airflow → **70% less manual processing time**  
+<sup>▸</sup> Python scraping (BeautifulSoup, Selenium) across **10,000+ B2B profiles** from LinkedIn Sales Navigator  
+<sup>▸</sup> SQL validation with deduplication and enrichment → dataset accuracy **78% → 94%**  
+<sup>▸</sup> Automated ETL with Python and Apache Airflow → **70% less manual processing**  
 
 </td></tr>
 <tr><td>
@@ -238,14 +295,14 @@ class AhteshamSalamatAnsari:
 ```json
 {
   "role"    : "Data Quality Analyst & Team Lead",
-  "company" : "FunnelByte",
+  "company" : "BizProspex",
   "period"  : "June 2021 – February 2025"
 }
 ```
 
-<sup>▸</sup> Led QA initiatives with automated testing frameworks → **42% error rate reduction**  
-<sup>▸</sup> Managed **8+ analyst team**: documentation, data modeling, knowledge transfer  
-<sup>▸</sup> Built Python validation scripts & real-time data quality monitoring dashboards  
+<sup>▸</sup> Led QA with automated testing frameworks → **42% lower error rate**  
+<sup>▸</sup> Managed a team of **8+ analysts**: documentation, data modeling, knowledge transfer  
+<sup>▸</sup> Built Python validation scripts and real-time data quality dashboards  
 
 </td></tr>
 </table>
@@ -260,71 +317,67 @@ class AhteshamSalamatAnsari:
 
 <h2>
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35" align="left"/>
-  <code>$ pip list  # tech stack</code>
+  <code>$ pip list  # what I actually use</code>
 </h2>
 
 <table align="center">
 <tr>
 <td valign="top" width="50%">
 
-<h3 align="center">🤖 Generative AI & LLMs</h3>
+<h3 align="center">AI & Agents</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG_Systems-00B4D8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Eng-FF6B6B?style=for-the-badge"/>
 </p>
 
-<h3 align="center">🗄️ Vector Databases</h3>
+<h3 align="center">Automation</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Weaviate-00D084?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-0096C7?style=for-the-badge"/>
 </p>
 
-<h3 align="center">💻 Programming & Data</h3>
+<h3 align="center">Programming & Data</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql&theme=dark" />
 <br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-555555?style=for-the-badge"/>
 </p>
 
 </td>
 <td valign="top" width="50%">
 
-<h3 align="center">☁️ Cloud & MLOps</h3>
+<h3 align="center">Cloud & Deployment</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark" />
 <br/>
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
 <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 </p>
 
-<h3 align="center">🌊 Big Data & Streaming</h3>
+<h3 align="center">Pipelines</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
 </p>
 
-<h3 align="center">🛠️ Business & Collaboration</h3>
+<h3 align="center">Business Tools</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sales_Navigator-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
 </td>
@@ -344,38 +397,16 @@ class AhteshamSalamatAnsari:
   <code>$ cat certifications.txt</code>
 </h2>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏆 Professional Certifications
-
 ```diff
-+ Full Stack Generative and Agentic AI with Python
-  └─ Issued by NVIDIA
-
-+ Building LLM Applications With Prompt Engineering
-  └─ Issued by Udemy
++ Governing Zapier MCP .................................. Zapier · Oct 2026
++ Claude Code in Action .................................. Anthropic · Apr 2026
++ Building LLM Applications With Prompt Engineering ...... NVIDIA · Sep 2025
++ Full Stack Generative and Agentic AI with Python ....... Udemy · Sep 2025
 ```
 
-</td>
-<td width="50%" valign="top">
+<sub>B.Sc. Computer Science, Devi Ahilya University (2019–2023)</sub>
 
-### 📚 Self-Study Foundation
-
-```diff
-! Data Structures & Algorithms ......... MIT OCW
-! Linear Algebra for ML ................ Coursera
-! Statistics & Probability
-! Database Systems
-! Python Programming
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
+<br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                           GITHUB STATS                              -->
@@ -401,10 +432,6 @@ class AhteshamSalamatAnsari:
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/ahteshamsalamatansari?style=flat-square&logo=github&color=00FFB2&labelColor=0D1117" /> <img src="https://img.shields.io/badge/GenAI-Production_Ready-00FFB2?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/MLOps-Automated_Pipelines-00FFB2?style=flat-square&labelColor=0D1117" />
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahteshamsalamatansari&bg_color=0D1117&color=00FFB2&line=00FFB2&point=ffffff&area=true&hide_border=true&custom_title=Contribution+Activity" width="98%" />
 
 </div>
@@ -412,35 +439,38 @@ class AhteshamSalamatAnsari:
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                              CONNECT                                -->
+<!--                                 CTA                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%" height="2"/>
 
 <h2>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" align="left"/>
-  <code>$ echo $CONNECT</code>
+  <code>$ ./start_project.sh</code>
 </h2>
 
 <div align="center">
 
-### 🚀 ⚡ Currently exploring AI Agents, LLM systems, automation, and data intelligence.
+### Got a task your team repeats every single day?
+
+Send me three things:
+
+**1.** what the task is &nbsp;·&nbsp; **2.** where the data lives &nbsp;·&nbsp; **3.** what a correct result looks like
+
+I'll reply with how I would automate it and a rough scope.<br/>
+If a simple script does the job better than AI, I'll tell you that too.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ahteshamsalamatansari">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.upwork.com/freelancers/YOUR-PROFILE-ID">
+  <img src="https://img.shields.io/badge/Hire_me_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
-<a href="mailto:ahteshamsalamat@gmail.com">
-  <img src="https://img.shields.io/badge/Drop_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:ahteshamsalamat@gmail.com?subject=Automation%20project">
+  <img src="https://img.shields.io/badge/Email_your_task-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://wa.me/917415995966">
   <img src="https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=The%20best%20AI%20systems%20don%27t%20just%20process%20information%20%E2%80%94%20they%20generate%20clarity%20from%20chaos.&author=Ahtesham%20Salamat%20Ansari" />
 
 </div>
 
@@ -455,9 +485,5 @@ class AhteshamSalamatAnsari:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                            FOOTER WAVE                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
