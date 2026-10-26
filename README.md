@@ -11,7 +11,7 @@
 
 **AI agents, LLM pipelines and Python automation that take repetitive outreach, research and data work off a team.**
 
-<a href="https://www.upwork.com/freelancers/YOUR-PROFILE-ID"><img src="https://img.shields.io/badge/Hire_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Ahtesham on Upwork for AI automation"/></a>
+<a href="https://www.upwork.com/freelancers/~0130d0bef351ef54dc"><img src="https://img.shields.io/badge/Hire_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Ahtesham on Upwork for AI automation"/></a>
 <a href="https://www.linkedin.com/in/ahteshamsalamatansari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ahtesham Salamat Ansari on LinkedIn"/></a>
 <a href="mailto:ahteshamsalamat@gmail.com?subject=Automation%20project"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ahtesham"/></a>
 <a href="https://wa.me/917415995966"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat with Ahtesham on WhatsApp"/></a>
@@ -177,7 +177,7 @@ Send me three things: what the task is, where the data lives, and what a correct
 
 ### Have a task your team repeats every day?
 
-[Hire me on Upwork](https://www.upwork.com/freelancers/YOUR-PROFILE-ID) · [Email your task](mailto:ahteshamsalamat@gmail.com?subject=Automation%20project) · [WhatsApp](https://wa.me/917415995966)
+[Hire me on Upwork](https://www.upwork.com/freelancers/~0130d0bef351ef54dc) · [Email your task](mailto:ahteshamsalamat@gmail.com?subject=Automation%20project) · [WhatsApp](https://wa.me/917415995966)
 
 <sub>AI Engineer · AI Agent Developer · Workflow Automation · MCP Integrations · Python Automation · Web Scraping · Data Pipelines</sub>
 
